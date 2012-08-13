@@ -1,28 +1,16 @@
 
 
+## ALL IS AS IS
+
 #   Applied Metaphysics
 
-[![CI-Level-One][1]][2]
+#  ~ embracing a collective understanding of the nature of reality ~
 
-* [INNOVARE][3]
+                                                                      
 
-* [Integral Theory - Ken Wilber][4]
+## [Overview][1]
 
-* [Overview][5]
-
-Username: *
-
-Password: *
-
-* [Request new password][6]
-
-* [Blogs][7]
-* [Books][8]
-* [Forums][9]
-* [Image galleries][10]
-* [Search][11]
-
-There are currently _0 users_ and _1 guest_ online. 
+Wed, 01/18/2012 - 18:35 — glisten
 
 **High Altitude Map of Reality:**
 
@@ -32,7 +20,23 @@ in collaboration with my reseach partner John Ringland. The colour coding of
 the nodes helps with concept navigation, pink is the manifest realm, green 
 is the phenomenal realm and orange is the realm of reality generative processes. 
 
-![][12]
+* [Read more][1]
+
+## [Systemic Context][2]
+
+Wed, 03/28/2012 - 12:09 — glisten
+
+![][3]
+
+* [Read more][2]
+* [1 attachment][4]
+
+* 1
+* [2][5]
+* [next ›][5]
+* [last »][5]
+
+## All being "as it is".
 
 ### 
  _If we are to transcend the "tower of babel" effect that our current methods of cognition and communication commonly suffer from, we need to explore new ways of thinking and representing knowledge. _
@@ -52,31 +56,25 @@ _Part of the evolution of consciousness is its drive toward ever more inclusive,
 ### 
 _The initial purpose of this diagram and the set of related concepts which it represents is to explore holistic, systemic methods for information representation and retrieval. It is an attempt to build bridges between the current linear thinking and communication methods with which we are familiar, and the logical, systemic methods used when languages become more abstract, yet the information conveyed is done so more accurately (for example; mathematics, computer codes, ontologies or music)._ 
 
-[![Creative Commons License][13]][14]  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][14].
+[![Syndicate content][6]][7]
 
 ----
 
-This page was forked with permission from [http://allisasis.info/][15]
+This page was forked with permission from [http://allisasis.info/][8]
 
 ----
 
-[![Creative Commons License][13]][14]
+[![Creative Commons License][9]][10]
 
-[Creative Commons Attribution-ShareAlike 3.0 Unported License][14]
+[Creative Commons Attribution-ShareAlike 3.0 Unported License][10]
 
-[1]: http://www.coreintegral.com/sites/default/files/images/emblems/Core_Integral_Level_One.png
-[2]: http://www.coreintegral.com
-[3]: http://allisasis.info/node/74
-[4]: http://allisasis.info/node/52
-[5]: http://allisasis.info/overview
-[6]: http://allisasis.info/user/password (Request new password via e-mail.)
-[7]: http://allisasis.info/blog
-[8]: http://allisasis.info/book
-[9]: http://allisasis.info/forum
-[10]: http://allisasis.info/image
-[11]: http://allisasis.info/search
-[12]: http://allisasis.info/sites/default/files/SystemicContext_0.png
-[13]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-[14]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[15]: http://allisasis.info/
+[1]: http://allisasis.info/overview (Overview)
+[2]: http://allisasis.info/node/73 (Systemic Context)
+[3]: http://allisasis.info/sites/default/files/SystemicContext_0.png
+[4]: http://allisasis.info/node/73#attachments (Read full article to view attachments.)
+[5]: http://allisasis.info/node?page=1 (Go to page 2)
+[6]: http://allisasis.info/misc/feed.png (allisasis.info RSS)
+[7]: http://allisasis.info/rss.xml
+[8]: http://allisasis.info/
+[9]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+[10]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
